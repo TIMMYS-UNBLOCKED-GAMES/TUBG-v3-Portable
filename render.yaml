@@ -3,7 +3,7 @@ services:
 - type: web
   name: educational website
   runtime: node
-  repo: https://github.com/FrogiesArcade/FrogiesArcade-v2-Portable
+  repo: https://github.com/TIMMYS-UNBLOCKED-GAMES/TUBG-v3-Portable
   plan: free
   region: oregon
   buildCommand: npm i
